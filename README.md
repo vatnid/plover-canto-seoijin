@@ -10,3 +10,9 @@ Note: the `plover` command can be replaced with the following according to your 
 * macOS: `/Applications/Plover.app/Contents/MacOS/Plover`
 * Linux: `plover.AppImage`
 
+## Layout
+To be added.
+
+## Punctuation
+The `A`, `O`, `E`, and `U` keys are defined as `!`, `?`, `,`, and `.` respectively to avoid collision with the the Jyutping syllables.
+
