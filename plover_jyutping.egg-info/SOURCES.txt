@@ -1,0 +1,12 @@
+MANIFEST.in
+setup.cfg
+setup.py
+plover_jyutping/__init__.py
+plover_jyutping/system.py
+plover_jyutping.egg-info/PKG-INFO
+plover_jyutping.egg-info/SOURCES.txt
+plover_jyutping.egg-info/dependency_links.txt
+plover_jyutping.egg-info/entry_points.txt
+plover_jyutping.egg-info/requires.txt
+plover_jyutping.egg-info/top_level.txt
+plover_jyutping.egg-info/zip-safe
