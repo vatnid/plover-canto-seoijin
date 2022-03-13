@@ -2,14 +2,12 @@
 "KPA": "{}{-|}",
 "KPA*": "{^}{-|}",
 "S-P": "{^ ^}",
+"WR-RB": "{^ ^}",
 "TK-LS": "{^^}",
 "KHR*BG": "{#Control_L(k)}",
 "KHR*F": "{#Control_L(v)}",
 "KHR*T": "{#Control_L(w)}",
 "KHR-BG": "{#Control_L(c)}",
-"KPAD": "{*-|}",
-"KPA*L": "{<}",
-"KA*PD": "{*-|}",
 "KPH*BG": "{#Super_L(k)}",
 "KPH*F": "{#Super_L(v)}",
 "KPH*T": "{#Super_L(w)}",
@@ -38,6 +36,5 @@
 "TKUPT": "{PLOVER:ADD_TRANSLATION}",
 "TPEFBG": "{#Escape}",
 "TPW-G": "{#Alt_L(Right)}",
-"TPW-R": "{#Alt_L(Left)}",
-"*UPD": "{*<}"
+"TPW-R": "{#Alt_L(Left)}"
 }
