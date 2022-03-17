@@ -1,8 +1,8 @@
-# Plover plugin for Jyutping
+# Plover plugin for Cantonese
 
 ## Installation
 1. Navigate to the repo directory: `cd plover-cantonese-seoijin`
-2. `plover -s plover_plugins install -e .`
+2. Run `plover -s plover_plugins install -e .`
 3. Restart Plover
 
 Note: the `plover` command can be replaced with the following according to your OS
@@ -11,8 +11,6 @@ Note: the `plover` command can be replaced with the following according to your 
 * Linux: `plover.AppImage`
 
 ## Layout
-To be added.
+![Plover Cantonese layout](layout.png)
 
-## Punctuation
-To be added.
 
