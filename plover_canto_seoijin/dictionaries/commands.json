@@ -1,0 +1,12 @@
+{
+"-Z": "{^ ^}",
+"TK-YS": "{^^}",
+"-D": "{#BackSpace}",
+"S*V": "{#Return}{^}",
+"S-V": "{^~|\n^}",
+"VKWSAUVTGS": "{^\n\n^}{-|}",
+"VTPH-T": "{#Down}{^}",
+"VTPH-G": "{#Right}{^}",
+"VTPH-P": "{#Up}{^}",
+"VTPH-V": "{#Left}{^}"
+}

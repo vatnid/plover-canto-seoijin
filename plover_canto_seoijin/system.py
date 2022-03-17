@@ -4,7 +4,7 @@ KEYS = (
     'A-', 'O-',
     '*',
     '-E', '-U',
-    '-F', '-V', '-P', '-T', '-Y', '-G', '-S', '-H', '-D', '-Z',
+    '-F', '-V', '-P', '-T', '-Y', '-G', '-H', '-S', '-D', '-Z',
 )
 
 IMPLICIT_HYPHEN_KEYS = ('A-', 'O-', '5-', '0-', '-E', '-U', '*')
@@ -23,7 +23,7 @@ NUMBERS = {
     '-F': '-6',
     '-P': '-7',
     '-Y': '-8',
-    '-S': '-9',
+    '-H': '-9',
 }
 
 UNDO_STROKE_STENO = '*'
@@ -55,8 +55,8 @@ KEYMAPS = {
         '-T'        : '-B',
         '-Y'        : '-L',
         '-G'        : '-G',
-        '-S'        : '-T',
-        '-H'        : '-S',
+        '-H'        : '-T',
+        '-S'        : '-S',
         '-D'        : '-D',
         '-Z'        : '-Z',
         'no-op'     : ('Fn', 'pwr', 'res1', 'res2'),
@@ -81,8 +81,8 @@ KEYMAPS = {
         '-T'        : 'k',
         '-Y'        : 'o',
         '-G'        : 'l',
-        '-S'        : 'p',
-        '-H'        : ';',
+        '-H'        : 'p',
+        '-S'        : ';',
         '-D'        : '[',
         '-Z'        : '\'',
         'arpeggiate': 'space',
@@ -109,8 +109,8 @@ KEYMAPS = {
         '-T'   : 'B',
         '-Y'   : 'L',
         '-G'   : 'G',
-        '-S'   : 'Y',
-        '-H'   : 'X',
+        '-H'   : 'Y',
+        '-S'   : 'X',
         '-D'   : 'D',
         '-Z'   : 'Z',
         'no-op': ('!', '^', '+'),
@@ -135,8 +135,8 @@ KEYMAPS = {
         '-T'   : '-B',
         '-Y'   : '-L',
         '-G'   : '-G',
-        '-S'   : '-T',
-        '-H'   : '-S',
+        '-H'   : '-T',
+        '-S'   : '-S',
         '-D'   : '-D',
         '-Z'   : '-Z',
         'no-op': '^',
@@ -161,8 +161,8 @@ KEYMAPS = {
         '-T'   : '-B',
         '-Y'   : '-L',
         '-G'   : '-G',
-        '-S'   : '-T',
-        '-H'   : '-S',
+        '-H'   : '-T',
+        '-S'   : '-S',
         '-D'   : '-D',
         '-Z'   : '-Z',
     },
@@ -186,8 +186,8 @@ KEYMAPS = {
         '-T'   : '-B',
         '-Y'   : '-L',
         '-G'   : '-G',
-        '-S'   : '-T',
-        '-H'   : '-S',
+        '-H'   : '-T',
+        '-S'   : '-S',
         '-D'   : '-D',
         '-Z'   : '-Z',
         'no-op': ('X1-', 'X2-', 'X3'),
@@ -195,4 +195,4 @@ KEYMAPS = {
 }
 
 DICTIONARIES_ROOT = 'asset:plover_jyutping:dictionaries'
-DEFAULT_DICTIONARIES = ('jyutping_main.json')
+DEFAULT_DICTIONARIES = ('main.json')

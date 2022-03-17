@@ -1,3 +1,0 @@
-[plover.system]
-Cantonese = plover_jyutping.system
-

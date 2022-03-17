@@ -1,7 +1,7 @@
 # Plover plugin for Jyutping
 
 ## Installation
-1. Navigate to the repo directory: `cd plover_jyutping`
+1. Navigate to the repo directory: `cd plover-cantonese-seoijin`
 2. `plover -s plover_plugins install -e .`
 3. Restart Plover
 
@@ -14,5 +14,5 @@ Note: the `plover` command can be replaced with the following according to your 
 To be added.
 
 ## Punctuation
-The `A`, `O`, `E`, and `U` keys are defined as `!`, `?`, `,`, and `.` respectively to avoid collision with the the Jyutping syllables.
+To be added.
 
