@@ -1,3 +1,4 @@
 .DS_Store
+*.swp
 plover_canto_seoijin.egg-info/
 plover_canto_seoijin/dictionaries/user.json
