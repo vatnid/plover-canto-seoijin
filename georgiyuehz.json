@@ -1,0 +1,235 @@
+{
+  "name": "GeorgiSJ - CantoSJ （Honzi)",
+  "background_color": "#e2e0f0",
+  "key_color":"#f0f0f0",
+  "margin": 3.0,
+  "key_width": 20.0,
+  "key_height": 20.0,
+  "keys": [
+    {
+      "name": "V-",
+      "label": "陽",
+      "x": 0.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 2.0,
+      "color_pressed": "#5acc8f"
+    },
+    {
+      "name": "T-",
+      "label": "同",
+      "x": 1.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "P-",
+      "label": "平",
+      "x": 2.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "H-",
+      "label": "可",
+      "x": 3.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "*",
+      "label": "拉",
+      "x": 4.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 2.0,
+      "color_pressed": "#999999"
+    },
+    {
+      "name": "*",
+      "label": "倉",
+      "x": 6.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 2.0,
+      "color_pressed": "#999999"
+    },
+    {
+      "name": "-F",
+      "label": "分",
+      "x": 7.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "-P",
+      "label": "甲",
+      "x": 8.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "-Y",
+      "label": "係",
+      "x": 9.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "-H",
+      "label": "上",
+      "x": 10.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#5acc8f"
+    },
+    {
+      "name": "-D",
+      "label": "單",
+      "x": 11.0,
+      "y": 1.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#7771c1"
+    },
+    {
+      "name": "K-",
+      "label": "佢",
+      "x": 1.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "W-",
+      "label": "會",
+      "x": 2.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "S-",
+      "label": "先",
+      "x": 3.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "-V",
+      "label": "異",
+      "x": 7.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ce6262"
+    },
+    {
+      "name": "-T",
+      "label": "突",
+      "x": 8.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#d89263"
+    },
+    {
+      "name": "-G",
+      "label": "更",
+      "x": 9.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#dfda73"
+    },
+    {
+      "name": "-S",
+      "label": "去",
+      "x": 10.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#5acc8f"
+    },
+    {
+      "name": "-Z",
+      "label": "靜",
+      "x": 11.0,
+      "y": 2.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#7771c1"
+    },
+    {
+      "name": "#",
+      "label": "數",
+      "x": 2.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#511212"
+    },
+    {
+      "name": "A-",
+      "label": "丫",
+      "x": 3.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ad5900"
+    },
+    {
+      "name": "O-",
+      "label": "柯",
+      "x": 4.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ffb363"
+    },
+    {
+      "name": "-E",
+      "label": "欸",
+      "x": 6.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ffb363"
+    },
+    {
+      "name": "-U",
+      "label": "烏",
+      "x": 7.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#ad5900"
+    },
+    {
+      "name": "#",
+      "label": "數",
+      "x": 8.0,
+      "y": 3.0,
+      "width": 1.0,
+      "height": 1.0,
+      "color_pressed": "#511212"
+    }
+  ]
+}
