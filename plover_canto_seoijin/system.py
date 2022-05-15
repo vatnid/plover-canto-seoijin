@@ -194,5 +194,5 @@ KEYMAPS = {
     },
 }
 
-DICTIONARIES_ROOT = 'asset:plover_jyutping:dictionaries'
-DEFAULT_DICTIONARIES = ('main.json')
+DICTIONARIES_ROOT = 'asset:plover_canto_seoijin:dictionaries'
+DEFAULT_DICTIONARIES = ('main.json', 'briefs.json', 'jyutping.json', 'congkit.json', 'symbol.json', 'commands.json')
