@@ -1,16 +1,14 @@
 {
-  "name": "GeorgiKN - CantoSJ",
+  "name": "GeorgiSJ - CantoSJ （Honzi)",
   "background_color": "#e2e0f0",
   "key_color":"#f0f0f0",
-  "font": "Founders Grotesk",
-  "background_color": "#e2e0f0",
   "margin": 3.0,
   "key_width": 20.0,
   "key_height": 20.0,
   "keys": [
     {
       "name": "V-",
-      "label": "V",
+      "label": "陽",
       "x": 0.0,
       "y": 1.0,
       "width": 1.0,
@@ -19,7 +17,7 @@
     },
     {
       "name": "T-",
-      "label": "T",
+      "label": "同",
       "x": 1.0,
       "y": 1.0,
       "width": 1.0,
@@ -28,7 +26,7 @@
     },
     {
       "name": "P-",
-      "label": "P",
+      "label": "平",
       "x": 2.0,
       "y": 1.0,
       "width": 1.0,
@@ -37,7 +35,7 @@
     },
     {
       "name": "H-",
-      "label": "H",
+      "label": "可",
       "x": 3.0,
       "y": 1.0,
       "width": 1.0,
@@ -46,7 +44,7 @@
     },
     {
       "name": "*",
-      "label": "*",
+      "label": "拉",
       "x": 4.0,
       "y": 1.0,
       "width": 1.0,
@@ -55,7 +53,7 @@
     },
     {
       "name": "*",
-      "label": "*",
+      "label": "倉",
       "x": 6.0,
       "y": 1.0,
       "width": 1.0,
@@ -64,7 +62,7 @@
     },
     {
       "name": "-F",
-      "label": "F",
+      "label": "分",
       "x": 7.0,
       "y": 1.0,
       "width": 1.0,
@@ -73,7 +71,7 @@
     },
     {
       "name": "-P",
-      "label": "P",
+      "label": "甲",
       "x": 8.0,
       "y": 1.0,
       "width": 1.0,
@@ -82,7 +80,7 @@
     },
     {
       "name": "-Y",
-      "label": "Y",
+      "label": "係",
       "x": 9.0,
       "y": 1.0,
       "width": 1.0,
@@ -91,7 +89,7 @@
     },
     {
       "name": "-H",
-      "label": "H",
+      "label": "上",
       "x": 10.0,
       "y": 1.0,
       "width": 1.0,
@@ -100,7 +98,7 @@
     },
     {
       "name": "-D",
-      "label": "D",
+      "label": "單",
       "x": 11.0,
       "y": 1.0,
       "width": 1.0,
@@ -109,7 +107,7 @@
     },
     {
       "name": "K-",
-      "label": "K",
+      "label": "佢",
       "x": 1.0,
       "y": 2.0,
       "width": 1.0,
@@ -118,7 +116,7 @@
     },
     {
       "name": "W-",
-      "label": "W",
+      "label": "會",
       "x": 2.0,
       "y": 2.0,
       "width": 1.0,
@@ -127,7 +125,7 @@
     },
     {
       "name": "S-",
-      "label": "S",
+      "label": "先",
       "x": 3.0,
       "y": 2.0,
       "width": 1.0,
@@ -136,7 +134,7 @@
     },
     {
       "name": "-V",
-      "label": "V",
+      "label": "異",
       "x": 7.0,
       "y": 2.0,
       "width": 1.0,
@@ -145,7 +143,7 @@
     },
     {
       "name": "-T",
-      "label": "T",
+      "label": "突",
       "x": 8.0,
       "y": 2.0,
       "width": 1.0,
@@ -154,7 +152,7 @@
     },
     {
       "name": "-G",
-      "label": "G",
+      "label": "更",
       "x": 9.0,
       "y": 2.0,
       "width": 1.0,
@@ -163,7 +161,7 @@
     },
     {
       "name": "-S",
-      "label": "S",
+      "label": "去",
       "x": 10.0,
       "y": 2.0,
       "width": 1.0,
@@ -172,7 +170,7 @@
     },
     {
       "name": "-Z",
-      "label": "Z",
+      "label": "靜",
       "x": 11.0,
       "y": 2.0,
       "width": 1.0,
@@ -181,7 +179,7 @@
     },
     {
       "name": "#",
-      "label": "#",
+      "label": "數",
       "x": 2.0,
       "y": 3.0,
       "width": 1.0,
@@ -190,7 +188,7 @@
     },
     {
       "name": "A-",
-      "label": "A",
+      "label": "丫",
       "x": 3.0,
       "y": 3.0,
       "width": 1.0,
@@ -199,7 +197,7 @@
     },
     {
       "name": "O-",
-      "label": "O",
+      "label": "柯",
       "x": 4.0,
       "y": 3.0,
       "width": 1.0,
@@ -208,7 +206,7 @@
     },
     {
       "name": "-E",
-      "label": "E",
+      "label": "欸",
       "x": 6.0,
       "y": 3.0,
       "width": 1.0,
@@ -217,7 +215,7 @@
     },
     {
       "name": "-U",
-      "label": "U",
+      "label": "烏",
       "x": 7.0,
       "y": 3.0,
       "width": 1.0,
@@ -226,7 +224,7 @@
     },
     {
       "name": "#",
-      "label": "#",
+      "label": "數",
       "x": 8.0,
       "y": 3.0,
       "width": 1.0,
